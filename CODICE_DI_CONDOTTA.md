@@ -18,7 +18,7 @@ Previo consenso dei partecipanti, è possibile mantenere un atteggiamento più i
 
 ## Comportamenti non ammessi ##
 
-Posto che il richiamo alla **professionalità** dovrebbe essere già più che sufficiente, e posto che la legge Italiana dovrebbe codificare praticamente tutti i comportamenti non ammessi in quanto perseguibili, non dovrebbero essere necessari ulteriori puntualizzazioni.
+Posto che il richiamo alla **professionalità** dovrebbe essere già più che sufficiente, e posto che la legge Italiana dovrebbe codificare praticamente tutti i comportamenti non ammessi in quanto perseguibili, non dovrebbero essere necessarie ulteriori puntualizzazioni.
 
 Tuttavia, a costo di sembrare paternalistici in un consesso prettamente **professionale**, riportiamo alcuni dei comportamenti considerati non ammissibili: intimidazioni, violenza, discriminazione e in generale comportamenti offensivi o umilianti legati al genere, all'orientamento sessuale, alla razza, alla religione a alla disabilità.
 
