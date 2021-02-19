@@ -8,17 +8,19 @@ Lo User Group Italiano di SQL Server (UGISS), associazione senza alcun fine di l
 
 ## In sintesi ##
 
-La versione tl;dr (*too long; didn't read*) è che ci si aspetta un comportamento professionale e di reciproco rispetto da parte di chiunque partecipi alle attività dell'associazione, sia online (es. webinars) che in presenza (es. eventi o meetup).
+La versione tl;dr (*too long; didn't read*) è che ci si aspetta un comportamento **professionale** e di reciproco rispetto da parte di chiunque partecipi alle attività dell'associazione, sia online (es. webinars) che in presenza (es. eventi o meetup).
 
 ## Comportamenti ammessi ##
 
-Le attività dell'associazione sono supportate da volontari professionisti del settore che si aspettano una partecipazione altrettanto professionale, premurosa e rispettosa da parte di tutti gli appassionati di gestione e analisi dei dati per poter condividere esperienze e far crescere le competenze di tutti.
+Le attività dell'associazione sono supportate da volontari professionisti del settore che si aspettano una partecipazione altrettanto **professionale**, premurosa e rispettosa da parte di tutti gli appassionati di gestione e analisi dei dati per poter condividere esperienze e far crescere le competenze di tutti.
 
 ## Comportamenti non ammessi ##
 
-Posto che il richiamo alla professionalità dovrebbe essere già più che sufficiente, e posto che la legge Italiana codifica già praticamente tutti i comportamenti non ammessi in quanto perseguibili, non dovrebbero essere necessari ulteriori puntualizzazioni.
+Posto che il richiamo alla **professionalità** dovrebbe essere già più che sufficiente, e posto che la legge Italiana dovrebbe codificare praticamente tutti i comportamenti non ammessi in quanto perseguibili, non dovrebbero essere necessari ulteriori puntualizzazioni.
 
-Tuttavia, a costo di sembrare paternalistici in un consesso prettamente professionale, riportiamo alcuni dei comportamenti considerati non ammissibili: intimidazioni, violenza, discriminazione e in generale comportamenti offensivi o umilianti nei confronti dei partecipanti alle attività dell'associazione.
+Tuttavia, a costo di sembrare paternalistici in un consesso prettamente **professionale**, riportiamo alcuni dei comportamenti considerati non ammissibili: intimidazioni, violenza, discriminazione e in generale comportamenti offensivi o umilianti legati al genere, all'orientamento sessuale, alla razza, alla religione a alla disabilità.
+
+Inoltre, l'associazione non è il luogo ideale per trattare argomenti di natura politica di alcuno tipo e orientamento.
 
 ## Conseguenze ##
 
