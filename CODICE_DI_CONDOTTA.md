@@ -30,5 +30,8 @@ In generale, gli organizzatori delle attività dell'associazione non possono sos
 
 ## Ambito di applicazione ##
 
+Ci aspettiamo che tutti i membri dell'associazione, eventuali sponsor, speaker, ospiti rispettino questo codice di condotta in tutte le sedi sia online (es. webinar, conference online) che in presenza (es. eventi, meetup).
+
 ## Contatti ##
 
+Per riportare un incidente contattate direttamente gli organizzatori in loco oppure mandate una mail a info@ugiss.org
