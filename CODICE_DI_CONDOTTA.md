@@ -14,6 +14,8 @@ La versione tl;dr (*too long; didn't read*) è che ci si aspetta un comportament
 
 Le attività dell'associazione sono supportate da volontari professionisti del settore che si aspettano una partecipazione altrettanto **professionale**, premurosa e rispettosa da parte di tutti gli appassionati di gestione e analisi dei dati per poter condividere esperienze e far crescere le competenze di tutti.
 
+Previo consenso dei partecipanti, è possibile mantenere un atteggiamento più informale ma sempre nei limiti del rispetto reciproco.
+
 ## Comportamenti non ammessi ##
 
 Posto che il richiamo alla **professionalità** dovrebbe essere già più che sufficiente, e posto che la legge Italiana dovrebbe codificare praticamente tutti i comportamenti non ammessi in quanto perseguibili, non dovrebbero essere necessari ulteriori puntualizzazioni.
@@ -23,6 +25,8 @@ Tuttavia, a costo di sembrare paternalistici in un consesso prettamente **profes
 Inoltre, l'associazione non è il luogo ideale per trattare argomenti di natura politica di alcuno tipo e orientamento.
 
 ## Conseguenze ##
+
+In generale, gli organizzatori delle attività dell'associazione non possono sostituirsi ai pubblici ufficiali; quindi, in caso di necessità, potranno solo dare supporto nel contattare le autorità giudiziarie locali (o gli agenti di pubblica sicurezza ove presenti in loco) e nell'esporre eventuali denunce.
 
 ## Ambito di applicazione ##
 
