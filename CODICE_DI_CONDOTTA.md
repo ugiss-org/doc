@@ -26,7 +26,7 @@ Inoltre, l'associazione non è il luogo ideale per trattare argomenti di natura 
 
 ## Conseguenze ##
 
-In generale, gli organizzatori delle attività dell'associazione non possono sostituirsi ai pubblici ufficiali; quindi, in caso di necessità, potranno solo dare supporto nel contattare le autorità giudiziarie locali (o gli agenti di pubblica sicurezza ove presenti in loco) e nell'esporre eventuali denunce.
+In generale, gli organizzatori delle attività dell'associazione non possono sostituirsi ai pubblici ufficiali; quindi, in caso di necessità, daranno supporto nel contattare le autorità giudiziarie locali (o gli agenti di pubblica sicurezza ove presenti in loco) e nell'esporre eventuali denunce.
 
 ## Ambito di applicazione ##
 
